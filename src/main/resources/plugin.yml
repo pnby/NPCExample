@@ -1,0 +1,10 @@
+name: NPC
+version: '1.0'
+main: org.pink.npc.NPCExample
+api-version: '1.20'
+
+commands:
+  npc:
+    description: Main command for NPC
+    usage: /npc <create|destroy>
+
